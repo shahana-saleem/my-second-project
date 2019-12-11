@@ -13,3 +13,7 @@ __my github works really good__
 1. First list item
    -first list
    -second list
+
+- [* ] First my changes
+- [ ] Push my commits to Github
+- [ ] Open a pull request
